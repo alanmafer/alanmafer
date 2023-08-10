@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Alan Machado Ferreira
  ![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmafer&show_icons=true&theme=transparent)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmafer&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmafer&hide_progress=true&theme=transparent)
 <div style="display: inline_block"><br>
   <img align="center" alt="alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
