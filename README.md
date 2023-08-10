@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Alan Machado Ferreira
-<1-- <div>
+<!-- <div>
   <a href="https://github.com/alanmafer">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alanmafer&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmafer&layout=compact&langs_count=16&theme=dark"/>
