@@ -1,4 +1,8 @@
 ### Olá! Meu nome é Alan e esse é meu Github!
+
+- 🔭 Atualmente estou trabalhando como Analista de TI Jr na RUMO Logistica.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na UTP.
+  
 <table>
   <a href="https://github.com/alanmafer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmafer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
